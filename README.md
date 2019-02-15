@@ -1,2 +1,1 @@
-# eportfolio
-Repository voor mijn e-portfolio
+Website voor E-portfolio
