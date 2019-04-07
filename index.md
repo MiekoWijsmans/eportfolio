@@ -1,2 +1,2 @@
-<h1>Test</h1>
+<h1>Tijdelijke E-portfolio met CV</h1>
 <img src = "cvfoto.png" />
