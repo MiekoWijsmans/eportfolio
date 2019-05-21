@@ -10,7 +10,8 @@
 
 <h1>Domeinspecifieke leerresultaten van Mieko Wijsmans </h1>
 
-  <b><p>1. De professionele bachelor TI analyseert een probleem, vertaalt dit naar een ITcontext en geeft de informatiebehoeften van een organisatie gestructureerd weer
+  <b><p> 
+  1. De professionele bachelor TI analyseert een probleem, vertaalt dit naar een ITcontext en geeft de informatiebehoeften van een organisatie gestructureerd weer
     door gebruik te maken van analyse- en modelleringstechnieken.</b>
   </p>
   <p> Aangeleerd bij de volgende vakken:
