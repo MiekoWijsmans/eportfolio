@@ -11,45 +11,75 @@
 <h1>Domeinspecifieke leerresultaten</h1>
   <p>1. De professionele bachelor TI analyseert een probleem, vertaalt dit naar een ITcontext en geeft de informatiebehoeften van een organisatie gestructureerd weer
     door gebruik te maken van analyse- en modelleringstechnieken.
-  Aangeleerd bij de volgende vakken:
+ <p> Aangeleerd bij de volgende vakken:
   <ul>
     <li>Technieken van Datamodelleren</li>
     <li>OSA(Object Oriented System Analysis</li>
-    <li> Databanken </li>
+    <li> Databanken 1 & 2 </li>
+    </p>
 </p>
 <p>
   <p>
 2. De professionele bachelor TI verzamelt en verwerkt proces- en datagegevens,
 slaat ze op en stelt ze ter beschikking, zodanig dat deze op een correcte en
 efficiënte manier kunnen worden opgevraagd.
+    <p> Aangeleerd bij de volgende vakken:
+  <ul>
+    <li>Webontwikkeling 2 & 3</li>
+    <li> Databanken 1 & 2  </li>
+    </p>
   </p>
     <p>
 3. De professionele bachelor TI ontwerpt, bouwt, documenteert en test kwalitatieve
 IT oplossingen.
+  <p> Aangeleerd bij de volgende vakken:
+  <ul>
+    <li>OOP(Object Oriented Programming)</li>
+  
+    </p>
   </p>
   <p>
 4. De professionele bachelor TI installeert, configureert, beveiligt, onderhoudt en
 ondersteunt IT-oplossingen en past ze indien nodig aan zodat ze blijven
 beantwoorden aan de veranderende behoeften van een organisatie.
+  <p> Aangeleerd bij de volgende vakken:
+  <ul>
+    <li>Netwerken 1 & 2li>
+    <li> Databanken </li>
+    </p>
   </p>
   <p>
 5. De professionele bachelor TI handelt deontologisch en maatschappelijk
 verantwoord, conform bedrijfs- en organisatiecontext, regelgeving, best practices en
 strategieën vanuit eigen inzicht en kennis.
+  <p> Aangeleerd bij de volgende vakken:
+  <ul>
+    <li>OSA(Object Oriented System Analysis)</li>
+   </p>
   </p>
   <p>
 6. De professionele bachelor TI onderzoekt en evalueert kritisch bestaande en
 innovatieve IT-oplossingen.
+    <p> Aangeleerd bij de volgende vakken:
+  <ul>
+    <li> Databanken 1 & 2</li>
+    </p>
   </p>
   <p>
 7. De professionele bachelor TI geeft advies over IT-oplossingen, -producten, -
 diensten en –technologieën voor verschillende domeinen en/of sectoren.
+    <p> Aangeleerd bij de volgende vakken:
+  <ul>
+    <li>Databanken 1 & 2li>
+    <li> Business Process Management </li>
+    </p>
   </p>
   <p>
 8. De professionele bachelor TI kan zelfstandig en in een multidisciplinair en/of
 multicultureel team een opdracht op projectmatige wijze aanpakken. De
 professionele bachelor TI kan eenvoudig leidinggevende taken uitvoeren en een
 projectplan ontwerpen, interpreteren, uitvoeren, aanpassen en toelichten.
+  
   </p>
   <p>
 9. De professionele bachelor TI communiceert minstens in het Nederlands en het
