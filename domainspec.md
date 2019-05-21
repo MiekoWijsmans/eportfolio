@@ -6,7 +6,7 @@
   <ul>
   <li><a href="index.md">Home</a></li>
   <li><a href="domainspec.md">DLR</a></li>
-  <li><a href="contact.asp">CV</a></li>
+  <li><a href="cv.md">CV</a></li>
 </ul>
 
 <h1>Domeinspecifieke leerresultaten</h1>
