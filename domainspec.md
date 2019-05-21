@@ -8,7 +8,7 @@
   <li><a href="https://miekowijsmans.github.io/eportfolio/cv">CV</a></li>
 </ul>
 
-<h1>Domeinspecifieke leerresultaten</h1>
+<h1>Domeinspecifieke leerresultaten van Mieko Wijsmans </h1>
   <p>1. De professionele bachelor TI analyseert een probleem, vertaalt dit naar een ITcontext en geeft de informatiebehoeften van een organisatie gestructureerd weer
     door gebruik te maken van analyse- en modelleringstechnieken.
  <p> Aangeleerd bij de volgende vakken:
@@ -16,8 +16,7 @@
     <li>Technieken van Datamodelleren</li>
     <li>OSA(Object Oriented System Analysis</li>
     <li> Databanken 1 & 2 </li>
-    </p>
-</p>
+   
 <p>
   <p>
 2. De professionele bachelor TI verzamelt en verwerkt proces- en datagegevens,
