@@ -10,7 +10,14 @@
 
 <h1>Domeinspecifieke leerresultaten</h1>
   <p>1. De professionele bachelor TI analyseert een probleem, vertaalt dit naar een ITcontext en geeft de informatiebehoeften van een organisatie gestructureerd weer
-    door gebruik te maken van analyse- en modelleringstechnieken.</p>
+    door gebruik te maken van analyse- en modelleringstechnieken.
+  Aangeleerd bij de volgende vakken:
+  <ul>
+    <li>Technieken van Datamodelleren</li>
+    <li>OSA(Object Oriented System Analysis</li>
+    <li> Databanken </li>
+</p>
+<p>
   <p>
 2. De professionele bachelor TI verzamelt en verwerkt proces- en datagegevens,
 slaat ze op en stelt ze ter beschikking, zodanig dat deze op een correcte en
