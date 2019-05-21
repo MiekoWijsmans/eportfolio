@@ -95,7 +95,7 @@ projectplan ontwerpen, interpreteren, uitvoeren, aanpassen en toelichten.
   <ul>
     <li>Communicatie (Verscheidene groepswerken)</li>
     <li> OSA (Object Oriented System Analysis) </li>
-    <li> Projectweken 
+    <li> Projectweken </li>
     </ul>
     </p>
   
@@ -143,4 +143,4 @@ van IT-oplossingen.
     </p>
   </p>
   </p>
-</body>
+
