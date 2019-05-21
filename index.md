@@ -8,8 +8,7 @@
 
 
 <h1>E-portfolio</h1>
-<h2> Wie ben ik <h2>
-  <p> Mijn naam is Mieko Wijsmans.
+  <p> Mijn naam is Mieko Wijsmans en welkom bij mijn e-portfolio.
 Momenteel ben ik tweedejaarsstudent Bachelor Toegepaste Informatica aan de UCLL, in Haasrode. Mijn keuzetraject ( en interesses) zijn systeem- en netwerkbeheer. </p>
   
   
