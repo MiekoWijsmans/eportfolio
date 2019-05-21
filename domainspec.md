@@ -93,7 +93,7 @@ projectplan ontwerpen, interpreteren, uitvoeren, aanpassen en toelichten.
   <ul>
     <li>Communicatie (Verscheidene groepswerken)</li>
     <li> OSA (Object Oriented System Analysis) </li>
-    <li> Projectweken </>
+    <li> Projectweken 
     </ul>
     </p>
   
@@ -127,7 +127,6 @@ ontwikkelingen en toepassingsdomeinen.
   <p> Aangeleerd bij de volgende vakken:
   <ul>
     <li>Object Oriented Programming </li>
-  
     </ul>
     </p>
   </p>
@@ -138,8 +137,7 @@ van IT-oplossingen.
   <p> Aangeleerd bij de volgende vakken:
   <ul>
     <li>NVT</li>
- 
-    </ul>
+  </ul>
     </p>
   </p>
   </p>
