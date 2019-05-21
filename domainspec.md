@@ -16,6 +16,7 @@
     <li>Technieken van Datamodelleren</li>
     <li>OSA(Object Oriented System Analysis</li>
     <li> Databanken 1 & 2 </li>
+    </p>
    
   <p1>
 2. De professionele bachelor TI verzamelt en verwerkt proces- en datagegevens,
