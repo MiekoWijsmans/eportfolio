@@ -1,12 +1,10 @@
-<head>
-<link rel="stylesheet" type="text/css" href="style.css">
-</head>
 
-<body>
+
+
   <ul>
-  <li><a href="index.md">Home</a></li>
-  <li><a href="domainspec.md">DLR</a></li>
-  <li><a href="cv.md">CV</a></li>
+  <li><a href="https://miekowijsmans.github.io/eportfolio/">Home</a></li>
+  <li><a href="https://miekowijsmans.github.io/eportfolio/domainspec">DLR</a></li>
+  <li><a href="cv">CV</a></li>
 </ul>
 
 <h1>Domeinspecifieke leerresultaten</h1>
