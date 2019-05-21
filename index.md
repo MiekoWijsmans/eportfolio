@@ -13,7 +13,8 @@
 Momenteel ben ik tweedejaarsstudent Bachelor Toegepaste Informatica aan de UCLL, in Haasrode. Mijn keuzetraject ( en interesses) zijn systeem- en netwerkbeheer. </p>
   
   
-  <p>Als u contact wenst op te nemen, kan u me bereiken op +32 499 18 85 855 of op Mieko.Wijsmans@student.ucll.be</p>
+  <p>Als u contact wenst op te nemen, kan u me bereiken op</p> 
+  <p>+32 499 18 85 855 of op Mieko.Wijsmans@student.ucll.be</p>
   
 
 
