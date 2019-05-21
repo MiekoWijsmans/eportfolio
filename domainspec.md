@@ -1,3 +1,8 @@
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
   <ul>
   <li><a href="index.md">Home</a></li>
   <li><a href="domainspec.md">DLR</a></li>
