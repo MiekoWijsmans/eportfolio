@@ -1,3 +1,4 @@
+
 <nav id="navbar" class="collapse navbar-collapse">
     <ul class="nav navbar-nav">
         {% assign links = site.data.navigation %}
@@ -29,6 +30,7 @@
         {% endfor %}
     </ul>
 </nav>
+
 <h1>Domeinspecifieke leerresultaten</h1>
   <p>1. De professionele bachelor TI analyseert een probleem, vertaalt dit naar een ITcontext en geeft de informatiebehoeften van een organisatie gestructureerd weer
     door gebruik te maken van analyse- en modelleringstechnieken.</p>
