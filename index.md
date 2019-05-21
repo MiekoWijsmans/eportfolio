@@ -1,7 +1,7 @@
 <body>
   <ul>
   <li><a href="index">Home</a></li>
-  <li><a href="https://miekowijsmans.github.io/eportfolio/domainspec>DLR</a></li>
+  <li><a href="https://miekowijsmans.github.io/eportfolio/domainspec">DLR</a></li>
   <li><a href="cv">CV</a></li>
 </ul>
 
