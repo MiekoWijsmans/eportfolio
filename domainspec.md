@@ -1,10 +1,12 @@
 <body>
 <h1>Domeinspecifieke leerresultaten</h1>
   <p>1. De professionele bachelor TI analyseert een probleem, vertaalt dit naar een ITcontext en geeft de informatiebehoeften van een organisatie gestructureerd weer
-door gebruik te maken van analyse- en modelleringstechnieken.
+    door gebruik te maken van analyse- en modelleringstechnieken.</p>
+  <p>
 2. De professionele bachelor TI verzamelt en verwerkt proces- en datagegevens,
 slaat ze op en stelt ze ter beschikking, zodanig dat deze op een correcte en
 efficiënte manier kunnen worden opgevraagd.
+  </p>
 3. De professionele bachelor TI ontwerpt, bouwt, documenteert en test kwalitatieve
 IT oplossingen.
 4. De professionele bachelor TI installeert, configureert, beveiligt, onderhoudt en
