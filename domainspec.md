@@ -30,6 +30,7 @@ efficiënte manier kunnen worden opgevraagd.
   <ul>
     <li>Webontwikkeling 2 & 3</li>
     <li> Databanken 1 & 2  </li>
+    </ul>
     </p>
   <p1>
 3. De professionele bachelor TI ontwerpt, bouwt, documenteert en test kwalitatieve
@@ -44,8 +45,9 @@ ondersteunt IT-oplossingen en past ze indien nodig aan zodat ze blijven
 beantwoorden aan de veranderende behoeften van een organisatie.
   <p> Aangeleerd bij de volgende vakken:
   <ul>
-    <li>Netwerken 1 & 2li>
+    <li>Netwerken 1 & 2</li>
     <li> Databanken </li>
+    </ul>
     </p>
   </p>
   <p>
@@ -55,6 +57,7 @@ strategieën vanuit eigen inzicht en kennis.
   <p> Aangeleerd bij de volgende vakken:
   <ul>
     <li>OSA(Object Oriented System Analysis)</li>
+    </ul>
    </p>
   </p>
   <p>
@@ -70,8 +73,9 @@ innovatieve IT-oplossingen.
 diensten en –technologieën voor verschillende domeinen en/of sectoren.
     <p> Aangeleerd bij de volgende vakken:
   <ul>
-    <li>Databanken 1 & 2li>
+    <li>Databanken 1 & 2</li>
     <li> Business Process Management </li>
+    </ul>
     </p>
   </p>
   <p>
