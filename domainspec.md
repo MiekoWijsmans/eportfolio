@@ -1,4 +1,9 @@
 <body>
+  <ul>
+  <li><a href="index.mdHome</a></li>
+  <li><a href="domainspec.md">DLR</a></li>
+  <li><a href="contact.asp">CV</a></li>
+</ul>
 <h1>Domeinspecifieke leerresultaten</h1>
   <p>1. De professionele bachelor TI analyseert een probleem, vertaalt dit naar een ITcontext en geeft de informatiebehoeften van een organisatie gestructureerd weer
     door gebruik te maken van analyse- en modelleringstechnieken.</p>
