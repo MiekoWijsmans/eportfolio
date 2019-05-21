@@ -70,6 +70,7 @@ innovatieve IT-oplossingen.
     <p> Aangeleerd bij de volgende vakken:
   <ul>
     <li> Databanken 1 & 2</li>
+    </ul>
     </p>
   </p>
   <p><b>
