@@ -1,6 +1,6 @@
 <body>
   <ul>
-  <li><a href="index.mdHome</a></li>
+  <li><a href="index.md">Home</a></li>
   <li><a href="domainspec.md">DLR</a></li>
   <li><a href="contact.asp">CV</a></li>
 </ul>
