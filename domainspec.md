@@ -38,8 +38,9 @@ IT oplossingen.
   <p> Aangeleerd bij de volgende vakken:
   <ul>
     <li>OOP(Object Oriented Programming)</li>
+  </ul>
   
-
+<p>
 4. De professionele bachelor TI installeert, configureert, beveiligt, onderhoudt en
 ondersteunt IT-oplossingen en past ze indien nodig aan zodat ze blijven
 beantwoorden aan de veranderende behoeften van een organisatie.
