@@ -106,7 +106,7 @@ Engels, mondeling en schriftelijk aangepast aan het doelpubliek.
   </b>
   <p> Aangeleerd bij de volgende vakken:
   <ul>
-    <li>OSA (Object Oriented system Analysis) : English Coaching/li>
+    <li>OSA (Object Oriented system Analysis) : English Coaching</li>
     <li> Business Process Management </li>
     </ul>
     </p>
