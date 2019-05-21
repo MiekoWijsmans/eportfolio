@@ -26,12 +26,12 @@
 2. De professionele bachelor TI verzamelt en verwerkt proces- en datagegevens,
 slaat ze op en stelt ze ter beschikking, zodanig dat deze op een correcte en
   efficiënte manier kunnen worden opgevraagd.</b>
-  </p>
     <p> Aangeleerd bij de volgende vakken:
   <ul>
     <li>Webontwikkeling 2 & 3</li>
     <li> Databanken 1 & 2  </li>
     </ul>
+    </p>
     </p>
   <p><b>
 3. De professionele bachelor TI ontwerpt, bouwt, documenteert en test kwalitatieve
