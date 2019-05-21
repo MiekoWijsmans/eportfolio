@@ -17,7 +17,6 @@
     <li>OSA(Object Oriented System Analysis</li>
     <li> Databanken 1 & 2 </li>
    
-<p>
   <p>
 2. De professionele bachelor TI verzamelt en verwerkt proces- en datagegevens,
 slaat ze op en stelt ze ter beschikking, zodanig dat deze op een correcte en
@@ -27,17 +26,13 @@ efficiënte manier kunnen worden opgevraagd.
     <li>Webontwikkeling 2 & 3</li>
     <li> Databanken 1 & 2  </li>
     </p>
-  </p>
-    <p>
 3. De professionele bachelor TI ontwerpt, bouwt, documenteert en test kwalitatieve
 IT oplossingen.
   <p> Aangeleerd bij de volgende vakken:
   <ul>
     <li>OOP(Object Oriented Programming)</li>
   
-    </p>
-  </p>
-  <p>
+
 4. De professionele bachelor TI installeert, configureert, beveiligt, onderhoudt en
 ondersteunt IT-oplossingen en past ze indien nodig aan zodat ze blijven
 beantwoorden aan de veranderende behoeften van een organisatie.
