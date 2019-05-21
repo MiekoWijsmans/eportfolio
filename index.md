@@ -1,8 +1,8 @@
 <body>
   <ul>
-  <li><a href="index.html">Home</a></li>
-  <li><a href="domainspec.html">DLR</a></li>
-  <li><a href="cv.html">CV</a></li>
+  <li><a href="index">Home</a></li>
+  <li><a href="domainspec">DLR</a></li>
+  <li><a href="cv">CV</a></li>
 </ul>
 
 
